@@ -1,0 +1,3 @@
+picture of the tree from sklearn is attached and implemented decision tree classifier works exactly like this. 
+Please refer to attached pdf for understanding the code better as example of the root node of sklearn tree is used extensively in code comments
+Adios
